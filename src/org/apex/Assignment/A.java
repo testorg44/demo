@@ -9,7 +9,7 @@ public class A {
 interface B {
 
 	default void temp() {
-		System.out.println("interface A");
+		System.out.println("interface A this is added");
 	}
 
 	void display();
